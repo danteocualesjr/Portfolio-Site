@@ -7,11 +7,13 @@ import Portfolio from './Components/Portfolio/portfolio';
 import Resume from './Components/Resume/resume';
 import Testimonials from './Components/Testimonials/testimonials';
 
+import resumeData from './resumeData';
+
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <Header />
+        <Header resumeData={resumeData} />
         <About />
         <Resume />
         <Portfolio />

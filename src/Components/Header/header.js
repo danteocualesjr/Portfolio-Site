@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 
 class Header extends Component {
     render() {
+        let resumeData = this.props.resumeData;
         return (
             <header id="home">
             <nav id="nav-wrap">
