@@ -18,12 +18,12 @@ class About extends Component {
                     <div className="columns contact-details">
                         <h2>Contact Details</h2>
                         <p className="address">
-                        <span>Jonathan Doe</span><br />
-                        <span>1600 Amphitheatre Parkway<br />
-                            Mountain View, CA 94043 US
+                        <span>Dante O. Cuales, Jr.</span><br />
+                        <span>P. Sanchez Street, Mandaue<br />
+                            Cebu, Philippines, 6014
                         </span><br />
-                        <span>(123)456-7890</span><br />
-                        <span>anyone@website.com</span>
+                        <span>(+63) 917 892 8033</span><br />
+                        <span>danteocualesjr@gmail.com</span>
                         </p>
                     </div>
                     <div className="columns download">
