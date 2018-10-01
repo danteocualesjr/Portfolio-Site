@@ -99,8 +99,8 @@ class Resume extends Component {
                         <li><span className="bar-expand react" /><em>React</em></li>
                         <li><span className="bar-expand redux" /><em>Redux</em></li>
                         <li><span className="bar-expand mongodb" /><em>MongoDB</em></li>
-                        <li><span className="bar-expand allskills" /><em>Express</em></li>
-                        <li><span className="bar-expand allskills" /><em>Node.js</em></li>
+                        <li><span className="bar-expand express" /><em>Express</em></li>
+                        <li><span className="bar-expand nodejs" /><em>Node.js</em></li>
                         <li><span className="bar-expand allskills" /><em>HTML</em></li>
                         <li><span className="bar-expand allskills" /><em>CSS</em></li>
                         <li><span className="bar-expand allskills" /><em>Python</em></li>
