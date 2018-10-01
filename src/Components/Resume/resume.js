@@ -95,10 +95,10 @@ class Resume extends Component {
                     </p>
                     <div className="bars">
                     <ul className="skills">
-                        <li><span className="bar-expand allskills" /><em>JavaScript</em></li>
-                        <li><span className="bar-expand allskills" /><em>React</em></li>
-                        <li><span className="bar-expand allskills" /><em>Redux</em></li>
-                        <li><span className="bar-expand allskills" /><em>MongoDB</em></li>
+                        <li><span className="bar-expand javascript" /><em>JavaScript</em></li>
+                        <li><span className="bar-expand react" /><em>React</em></li>
+                        <li><span className="bar-expand redux" /><em>Redux</em></li>
+                        <li><span className="bar-expand mongodb" /><em>MongoDB</em></li>
                         <li><span className="bar-expand allskills" /><em>Express</em></li>
                         <li><span className="bar-expand allskills" /><em>Node.js</em></li>
                         <li><span className="bar-expand allskills" /><em>HTML</em></li>
