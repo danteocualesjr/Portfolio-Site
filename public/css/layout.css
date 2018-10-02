@@ -386,11 +386,11 @@ ul#nav li.current a { color: #F06000; }
   -webkit-animation: jquery 2s ease;
 }
 
-@-moz-keyframes photoshop {
+@-moz-keyframes javascript {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-moz-keyframes illustrator {
+@-moz-keyframes react {
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
