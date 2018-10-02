@@ -326,52 +326,62 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .javascript {
-  	width: 80%;
+  	width: 85%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
 .react {
-  	width: 80%;
+  	width: 85%;
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
 .redux {
-  	width: 60%;
+  	width: 75%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
 .mongodb {
-  	width: 80%;
+  	width: 90%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
 .express {
-  	width: 80%;
+  	width: 85%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
 .nodejs {
-  	width: 80%;
+  	width: 85%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
 .html {
-  width: 90%;
+  width: 95%;
   -moz-animation: jquery 2s ease;
   -webkit-animation: jquery 2s ease;
 }
 .css {
-  width: 75%;
+  width: 80%;
   -moz-animation: jquery 2s ease;
   -webkit-animation: jquery 2s ease;
 }
 .python {
-  width: 75%;
+  width: 80%;
   -moz-animation: jquery 2s ease;
   -webkit-animation: jquery 2s ease;
 }
 .django {
-  width: 75%;
+  width: 80%;
+  -moz-animation: jquery 2s ease;
+  -webkit-animation: jquery 2s ease;
+}
+.c {
+  width: 80%;
+  -moz-animation: jquery 2s ease;
+  -webkit-animation: jquery 2s ease;
+}
+.sqlite {
+  width: 85%;
   -moz-animation: jquery 2s ease;
   -webkit-animation: jquery 2s ease;
 }
