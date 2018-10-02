@@ -326,7 +326,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .javascript {
-  	width: 85%;
+  	width: 90%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
@@ -336,7 +336,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: illustrator 2s ease;
 }
 .redux {
-  	width: 75%;
+  	width: 80%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
@@ -361,27 +361,27 @@ ul#nav li.current a { color: #F06000; }
   -webkit-animation: jquery 2s ease;
 }
 .css {
-  width: 80%;
+  width: 85%;
   -moz-animation: jquery 2s ease;
   -webkit-animation: jquery 2s ease;
 }
 .python {
-  width: 80%;
+  width: 90%;
   -moz-animation: jquery 2s ease;
   -webkit-animation: jquery 2s ease;
 }
 .django {
-  width: 80%;
+  width: 90%;
   -moz-animation: jquery 2s ease;
   -webkit-animation: jquery 2s ease;
 }
 .c {
-  width: 80%;
+  width: 85%;
   -moz-animation: jquery 2s ease;
   -webkit-animation: jquery 2s ease;
 }
 .sqlite {
-  width: 85%;
+  width: 90%;
   -moz-animation: jquery 2s ease;
   -webkit-animation: jquery 2s ease;
 }
