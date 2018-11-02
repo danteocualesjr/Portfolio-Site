@@ -6,7 +6,6 @@ import Header from './Components/Header/header';
 import Portfolio from './Components/Portfolio/portfolio';
 import Resume from './Components/Resume/resume';
 import Testimonials from './Components/Testimonials/testimonials';
-
 import resumeData from './resumeData';
 
 class App extends Component {
