@@ -16,6 +16,7 @@ class App extends Component {
         <About />
         <Resume />
         <Portfolio />
+        {/* Change this to Recommendations */}
         <Testimonials />
         <Contact />
         <Footer />
