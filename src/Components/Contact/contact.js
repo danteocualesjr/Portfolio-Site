@@ -9,10 +9,7 @@ class Contact extends Component {
                     <h1><span>Get In Touch</span></h1>
                 </div>
                 <div className="ten columns">
-                    <p className="lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                    eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                    voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-                    </p>
+                    <p className="lead">Please fill up the form below. Or you may also reach me via email at danteocualesjr@gmail.com.</p>
                 </div>
                 </div>
                 <div className="row">
@@ -55,13 +52,15 @@ class Contact extends Component {
                     <div className="widget widget_contact">
                     <h4>Address and Phone</h4>
                     <p className="address">
-                        Jonathan Doe<br />
-                        1600 Amphitheatre Parkway <br />
-                        Mountain View, CA 94043 US<br />
-                        <span>(123) 456-7890</span>
+                    <span>Dante O. Cuales, Jr.</span><br />
+                        <span>P. Sanchez Street, Mandaue<br />
+                            Cebu, Philippines, 6014
+                        </span><br />
+                        <span>(+63) 917 892 8033</span><br />
+                        <span>danteocualesjr@gmail.com</span>
                     </p>
                     </div>
-                    <div className="widget widget_tweets">
+                    {/* <div className="widget widget_tweets">
                     <h4 className="widget-title">Latest Tweets</h4>
                     <ul id="twitter">
                         <li>
@@ -81,7 +80,7 @@ class Contact extends Component {
                         <b><a href="#">3 Days Ago</a></b>
                         </li>
                     </ul>
-                    </div>
+                    </div> */}
                 </aside>
                 </div>
             </section>
