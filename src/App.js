@@ -5,7 +5,7 @@ import Footer from './Components/Footer/footer';
 import Header from './Components/Header/header';
 import Portfolio from './Components/Portfolio/portfolio';
 import Resume from './Components/Resume/resume';
-import Testimonials from './Components/Testimonials/testimonials';
+import Recommendations from './Components/Recommendations/recommendations';
 import resumeData from './resumeData';
 
 class App extends Component {
@@ -16,8 +16,7 @@ class App extends Component {
         <About />
         <Resume />
         <Portfolio />
-        {/* Change this to Recommendations */}
-        <Testimonials />
+        <Recommendations />
         <Contact />
         <Footer />
       </div>

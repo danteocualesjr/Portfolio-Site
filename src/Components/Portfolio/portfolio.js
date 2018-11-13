@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 
-// Major rehaul is needed.
-
 class Portfolio extends Component {
     render() {
         return (

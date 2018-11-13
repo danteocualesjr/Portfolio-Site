@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 
-class Testimonials extends Component {
+class Recommendations extends Component {
     render() {
         return (
-                <section id="testimonials">
+                <section id="recommendations">
                 <div className="text-container">
                 <div className="row">
                     <div className="two columns header-col">
@@ -33,4 +33,4 @@ class Testimonials extends Component {
     }
 }
 
-export default Testimonials;
+export default Recommendations;
