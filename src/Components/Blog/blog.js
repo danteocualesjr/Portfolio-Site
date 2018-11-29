@@ -33,4 +33,6 @@ class Blog extends Component {
     }
 }
 
+// TODO: Add more entries to your blog. Link them up in the site.
+
 export default Blog;
