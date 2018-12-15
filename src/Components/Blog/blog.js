@@ -11,6 +11,7 @@ class Blog extends Component {
                     </div>
                     <div className="ten columns flex-container">
                     <div className="flexslider">
+                    {/* Add links at the right-hand side of the photos. */}
                         {/* <ul className="slides"> */}
                             <img alt src="images/blogpost1.jpg" />
                         {/* <li>
