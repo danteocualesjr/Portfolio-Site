@@ -9,6 +9,7 @@ class About extends Component {
                     <img className="profile-pic" src="images/profilephoto2.jpg" />
                 </div>
                 <div className="nine columns main-col">
+                {/* Update About section. */}
                     <h2>About</h2>
                     <p>Hi, I'm Dante and I'm currently the Section Lead for, and one of the Project Managers of, Lambda School's "Lambda Next", a program designed to provide guidance/mentorship, structure, and support to its graduates in their job search.</p> 
                     <p>I'm also a proud student of the same school. We studied Full Stack Web Development and Computer Science with special emphasis on JavaScript, React, Redux, MongoDB, Node.js, Express, Python, Django, SQLite, and C.</p>
