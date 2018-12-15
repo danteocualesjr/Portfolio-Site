@@ -23,4 +23,6 @@ class Footer extends Component {
     }
 }
 
+// Add icons for LinkedIn, GitHub, etc.
+
 export default Footer;
