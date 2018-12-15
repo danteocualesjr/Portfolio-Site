@@ -43,4 +43,6 @@ class Header extends Component {
     }
 };
 
+// Check whether you need to remove a few links.
+
 export default Header;
