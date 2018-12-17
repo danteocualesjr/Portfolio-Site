@@ -8,8 +8,6 @@ import Resume from './Components/Resume/resume';
 import Blog from './Components/Blog/blog';
 import resumeData from './resumeData';
 
-// Add more components below.
-
 class App extends Component {
   render() {
     return (
