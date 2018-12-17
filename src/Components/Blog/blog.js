@@ -33,6 +33,4 @@ class Blog extends Component {
     }
 }
 
-// Make several snapshots of blog posts appear in the portfolio site.
-
 export default Blog;
