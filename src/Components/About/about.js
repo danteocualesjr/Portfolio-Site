@@ -10,7 +10,7 @@ class About extends Component {
                 </div>
                 <div className="nine columns main-col">
                     <h2>About</h2>
-                    <p>Hi, I'm Dante and I'm currently the Section Lead for, and one of the Project Managers of, Lambda School's "Lambda Next", a program designed to provide guidance/mentorship, structure, and support to its graduates in their job search.</p> 
+                    <p>Hi, I'm Dante and I'm a Student Success Coordinator and acting Section Lead at Lambda School, a program designed to provide guidance/mentorship, structure, and support to its graduates in their job search.</p> 
                     <p>I'm also a proud student of the same school. We studied Full Stack Web Development and Computer Science with special emphasis on JavaScript, React, Redux, MongoDB, Node.js, Express, Python, Django, SQLite, and C.</p>
                     <p>I'm also a published writer. In my spare time, I write short stories, opinion pieces, and articles on programming and Computer Science. My short fiction and opinion pieces have appeared in The Philippines Graphic and The Philippine Daily Inquirer, while my articles have been published in Hacker Noon and Medium.</p>
                     <p>Please feel free to contact me anytime!</p>
