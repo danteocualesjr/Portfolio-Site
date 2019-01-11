@@ -23,7 +23,7 @@ class About extends Component {
                             Cebu, Philippines, 6014
                         </span><br />
                         <span>(+63) 917 892 8033</span><br />
-                        <span>danteocualesjr@gmail.com</span>
+                        <span>dante@lambdaschool.com</span>
                         </p>
                     </div>
                     <div className="columns download">
